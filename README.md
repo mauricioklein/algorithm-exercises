@@ -5,3 +5,4 @@
 - [x] [Challenge 3: Pair with sum = k](challenge-3/README.md)
 - [x] [Challenge 4: Inplace rotate square matrix by 90 degrees](challenge-4/README.md)
 - [x] [Challenge 5: Product of every position](challenge-5/README.md)
+- [x] [Challenge 6: Serialize/Deserialize binary tree](challenge-6/README.md)
