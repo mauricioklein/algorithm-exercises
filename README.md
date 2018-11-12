@@ -8,3 +8,4 @@
 - [x] [Challenge 6: Serialize/Deserialize binary tree](challenge-6/README.md)
 - [x] [Challenge 7: First missing positive integer](challenge-7/README.md)
 - [x] [Challenge 8: Rearrange a string in sorted order followed by the integer sum](challenge-8/README.md)
+- [x] [Challenge 9: Find square with max sum](challenge-9/README.md)
