@@ -11,3 +11,4 @@
 - [x] [Challenge 9: Find square with max sum](challenge-9/README.md)
 - [x] [Challenge 10: Find year with max population alive](challenge-10/README.md)
 - [x] [Challenge 11: Convert ternary expression to a binary tree](challenge-11/README.md)
+- [x] [Challenge 12: Count possible decodings of a given digit sequence](challenge-12/README.md)
