@@ -10,3 +10,4 @@
 - [x] [Challenge 8: Rearrange a string in sorted order followed by the integer sum](challenge-8/README.md)
 - [x] [Challenge 9: Find square with max sum](challenge-9/README.md)
 - [x] [Challenge 10: Find year with max population alive](challenge-10/README.md)
+- [x] [Challenge 11: Convert ternary expression to a binary tree](challenge-11/README.md)
