@@ -12,3 +12,4 @@
 - [x] [Challenge 10: Find year with max population alive](challenge-10/README.md)
 - [x] [Challenge 11: Convert ternary expression to a binary tree](challenge-11/README.md)
 - [x] [Challenge 12: Count possible decodings of a given digit sequence](challenge-12/README.md)
+- [x] [Challenge 13: Find K smallest elements in an array](challenge-13/README.md)
