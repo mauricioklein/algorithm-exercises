@@ -14,3 +14,4 @@
 - [x] [Challenge 12: Count possible decodings of a given digit sequence](challenge-12/README.md)
 - [x] [Challenge 13: Find K smallest elements in an array](challenge-13/README.md)
 - [x] [Challenge 14: Implement an autocomplete system](challenge-14/README.md)
+- [x] [Challenge 15: Unique ways to climb a staircase](challenge-15/README.md)
