@@ -15,3 +15,8 @@
 - [x] [Challenge 13: Find K smallest elements in an array](challenge-13/README.md)
 - [x] [Challenge 14: Implement an autocomplete system](challenge-14/README.md)
 - [x] [Challenge 15: Unique ways to climb a staircase](challenge-15/README.md)
+- [x] [Challenge 16: Add two numbers as a linked list](challenge-16/README.md)
+- [x] [Challenge 17: Longest substring without repeating characters](challenge-17/README.md)
+- [x] [Challenge 18: Longest palindromic substring](challenge-18/README.md)
+- [x] [Challenge 19: First and last indices of an element in a sorted array](challenge-19/README.md)
+- [x] [Challenge 20: Reverse a linked list](challenge-20/README.md)
