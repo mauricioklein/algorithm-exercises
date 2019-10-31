@@ -20,3 +20,4 @@
 - [x] [Challenge 18: Longest palindromic substring](challenge-18/)
 - [x] [Challenge 19: First and last indices of an element in a sorted array](challenge-19/)
 - [x] [Challenge 20: Reverse a linked list](challenge-20/)
+- [x] [Challenge 21: Sorting a list with 3 unique numbers](challenge-21/)
