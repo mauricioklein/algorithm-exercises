@@ -1,4 +1,8 @@
 class Solver
+  #
+  # Time complexity:  O(n) ("n" to calculate the array product + "n" to calculate the product for every element)
+  # Space complexity: O(n) (requires a new array for the result)
+  #
   def call(arr)
     total = arr.reduce(:*)
     result = Array.new(arr.length)

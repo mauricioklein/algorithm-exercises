@@ -1,11 +1,15 @@
 class Solver
+  #
+  # Time complexity:  O(n) ("n" to find the max element + "n" for generate the fib lookup + "n" to traverse the array)
+  # Space complexity: O(n) ("n" for the fib lookup + "n" for the result array)
+  #
   def call(arr)
     return [] if arr.empty?
 
-    max = arr.max
-    fib_lookup = generate_fib_lookup(max)
-    result = []
+    max = arr.max # Time complexity: O(n)
+    fib_lookup = generate_fib_lookup(max) # Time complexity: O(n)
 
+    # Time complexity: O(n)
     arr.each do |val|
       if fib_lookup.has_key?(val)
         result << val
@@ -17,6 +21,10 @@ class Solver
 
   private
 
+  #
+  # Time complexity:  O(n) (grows linearly with the max element)
+  # Space complexity: O(n) (requires a hash to store the fib values)
+  #
   def generate_fib_lookup(max)
     lookup = {
       0 => nil,

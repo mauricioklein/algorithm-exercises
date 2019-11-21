@@ -1,4 +1,8 @@
 class Solver
+  #
+  # Time complexity:  O(n) (traverse the array once)
+  # Space complexity: O(n) (requires a lookup hash for previous values)
+  #
   def call(arr, k)
     lookup = {}
 

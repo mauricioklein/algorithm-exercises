@@ -1,4 +1,8 @@
 class Solver
+  #
+  # Time complexity:  O(n^2) ("n" lines * "n columns")
+  # Space complexity: O(1) (matrix rotated in place)
+  #
   def call(table)
     m = table.length
 

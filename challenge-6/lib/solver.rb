@@ -1,10 +1,18 @@
 class Solver
   NULL_NODE = "-"
 
+  #
+  # Time complexity:  O(n) (regular binary tree traversal)
+  # Space complexity: O(1) (only a string for the result is required)
+  #
   def serialize(root)
     to_string(root)
   end
 
+  #
+  # Time complexity:  O(n) (regular binary tree construction)
+  # Space complexity: O(n) (for the splitted serialized tree)
+  #
   def deserialize(serialized_root)
     from_string(serialized_root.split(/ /), 0).first
   end
