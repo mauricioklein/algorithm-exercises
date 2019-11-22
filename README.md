@@ -26,3 +26,4 @@
 - [x] [Challenge 24: Move zeros](challenge-24/)
 - [x] [Challenge 25: Falling Dominoes](challenge-25/)
 - [x] [Challenge 26: Course Pre-requisites](challenge-26/)
+- [x] [Challenge 27: Witness of The Tall People](challenge-27/)
