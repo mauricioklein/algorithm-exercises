@@ -25,3 +25,4 @@
 - [x] [Challenge 23: Invert a binary tree](challenge-23/)
 - [x] [Challenge 24: Move zeros](challenge-24/)
 - [x] [Challenge 25: Falling Dominoes](challenge-25/)
+- [x] [Challenge 26: Course Pre-requisites](challenge-26/)
