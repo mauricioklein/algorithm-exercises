@@ -30,3 +30,4 @@
 - [x] [Challenge 28: Validate BST](challenge-28/)
  -[x] [Challenge 29: Flood fill](challenge-29/)
  -[x] [Challenge 30: Merge sort](challenge-30/)
+- [x] [Challenge 31: Find cycle in indirected graph](challenge-31/)
