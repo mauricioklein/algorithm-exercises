@@ -32,3 +32,4 @@
 - [x] [Challenge 30: Merge sort](challenge-30/)
 - [x] [Challenge 31: Find cycle in indirected graph](challenge-31/)
 - [x] [Challenge 32: Shortest path in a indirected acyclic graph](challenge-32/)
+- [x] [Challenge 33: Merge Overlapping Intervals](challenge-33/)
