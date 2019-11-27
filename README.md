@@ -37,3 +37,4 @@
 - [x] [Challenge 35: Count rectangles](challenge-35/)
 - [x] [Challenge 36: Maximum Profit From Stocks](challenge-36/)
 - [x] [Challenge 37: Active time](challenge-37/)
+- [x] [Challenge 38: Remove k-th Last Element From Linked List](challenge-38/)
