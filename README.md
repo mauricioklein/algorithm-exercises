@@ -38,3 +38,4 @@
 - [x] [Challenge 36: Maximum Profit From Stocks](challenge-36/)
 - [x] [Challenge 37: Active time](challenge-37/)
 - [x] [Challenge 38: Remove k-th Last Element From Linked List](challenge-38/)
+- [x] [Challenge 39: Remove Consecutive Nodes that Sum to 0](challenge-39/)
