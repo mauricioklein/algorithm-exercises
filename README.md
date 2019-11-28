@@ -41,3 +41,4 @@
 - [x] [Challenge 39: Remove Consecutive Nodes that Sum to 0](challenge-39/)
 - [x] [Challenge 40: Queue Using Two Stacks](challenge-40/)
 - [x] [Challenge 41: Maximum sequence of consecutive numbers](challenge-41/)
+- [x] [Challenge 42: Depth of a stringified binary tree](challenge-42/)
