@@ -42,3 +42,4 @@
 - [x] [Challenge 40: Queue Using Two Stacks](challenge-40/)
 - [x] [Challenge 41: Maximum sequence of consecutive numbers](challenge-41/)
 - [x] [Challenge 42: Depth of a stringified binary tree](challenge-42/)
+- [x] [Challenge 43: Contiguous Subarray with Maximum Sum](challenge-43/)
