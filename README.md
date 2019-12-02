@@ -48,3 +48,4 @@
 - [x] [Challenge 46: Sudoku solver](challenge-46/)
 - [x] [Challenge 47: Closest coin](challenge-47/)
 - [x] [Challenge 48: Median of window](challenge-48/)
+- [x] [Challenge 49: Buddy strings](challenge-49/)
