@@ -46,3 +46,4 @@
 - [x] [Challenge 44: Find the k-th Largest Element in a List](challenge-44/)
 - [x] [Challenge 45: Occurrences of a number in a sorted array](challenge-45/)
 - [x] [Challenge 46: Sudoku solver](challenge-46/)
+- [x] [Challenge 47: Closest coin](challenge-47/)
