@@ -49,3 +49,4 @@
 - [x] [Challenge 47: Closest coin](challenge-47/)
 - [x] [Challenge 48: Median of window](challenge-48/)
 - [x] [Challenge 49: Buddy strings](challenge-49/)
+- [x] [Challenge 50: Create a balanced binary search tree](challenge-50/)
