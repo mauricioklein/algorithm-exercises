@@ -51,3 +51,4 @@
 - [x] [Challenge 49: Buddy strings](challenge-49/)
 - [x] [Challenge 50: Create a balanced binary search tree](challenge-50/)
 - [x] [Challenge 51: Subsequences of string](challenge-51/)
+- [x] [Challenge 52: Deepest Node in a Binary Tree](challenge-52/)
