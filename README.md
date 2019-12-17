@@ -52,3 +52,4 @@
 - [x] [Challenge 50: Create a balanced binary search tree](challenge-50/)
 - [x] [Challenge 51: Subsequences of string](challenge-51/)
 - [x] [Challenge 52: Deepest Node in a Binary Tree](challenge-52/)
+- [x] [Challenge 53: Thousand missing numbers](challenge-53/)
