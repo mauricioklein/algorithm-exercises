@@ -53,3 +53,4 @@
 - [x] [Challenge 51: Subsequences of string](challenge-51/)
 - [x] [Challenge 52: Deepest Node in a Binary Tree](challenge-52/)
 - [x] [Challenge 53: Thousand missing numbers](challenge-53/)
+- [x] [Challenge 54: Find the number of islands](challenge-54/)
