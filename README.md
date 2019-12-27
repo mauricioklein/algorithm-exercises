@@ -54,3 +54,4 @@
 - [x] [Challenge 52: Deepest Node in a Binary Tree](challenge-52/)
 - [x] [Challenge 53: Thousand missing numbers](challenge-53/)
 - [x] [Challenge 54: Find the number of islands](challenge-54/)
+- [x] [Challenge 55: Merge list of number into ranges](challenge-55/)
