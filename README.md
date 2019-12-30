@@ -56,3 +56,4 @@
 - [x] [Challenge 54: Find the number of islands](challenge-54/)
 - [x] [Challenge 55: Merge list of number into ranges](challenge-55/)
 - [x] [Challenge 56: Find largest BST](challenge-56/)
+- [x] [Challenge 57: Arithmetic Binary Tree](challenge-57/)
