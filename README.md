@@ -59,3 +59,4 @@
 - [x] [Challenge 57: Arithmetic Binary Tree](challenge-57/)
 - [x] [Challenge 58: Get all Values at a Certain Height in a Binary Tree](challenge-58/)
 - [x] [Challenge 59: Sort Colors](challenge-59/)
+- [x] [Challenge 60: Group anagrams](challenge-60/)
