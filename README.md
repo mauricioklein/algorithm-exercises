@@ -58,3 +58,4 @@
 - [x] [Challenge 56: Find largest BST](challenge-56/)
 - [x] [Challenge 57: Arithmetic Binary Tree](challenge-57/)
 - [x] [Challenge 58: Get all Values at a Certain Height in a Binary Tree](challenge-58/)
+- [x] [Challenge 59: Sort Colors](challenge-59/)
