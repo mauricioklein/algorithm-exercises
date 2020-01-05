@@ -61,3 +61,4 @@
 - [x] [Challenge 59: Sort Colors](challenge-59/)
 - [x] [Challenge 60: Group anagrams](challenge-60/)
 - [x] [Challenge 61: Full Binary Tree](challenge-61/)
+- [x] [Challenge 62: Palindrome with maximum "k" deletions](challenge-62/)
