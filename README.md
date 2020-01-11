@@ -64,3 +64,4 @@
 - [x] [Challenge 62: Palindrome with maximum "k" deletions](challenge-62/)
 - [x] [Challenge 63: Jump to the end](challenge-63/)
 - [x] [Challenge 64: Look and Say](challenge-64/)
+- [x] [Challenge 65: Free slots in calendar](challenge-65/)
