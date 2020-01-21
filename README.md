@@ -65,3 +65,4 @@
 - [x] [Challenge 63: Jump to the end](challenge-63/)
 - [x] [Challenge 64: Look and Say](challenge-64/)
 - [x] [Challenge 65: Free slots in calendar](challenge-65/)
+- [x] [Challenge 66: Level Order Traversal of Binary Tree](challenge-66/)
